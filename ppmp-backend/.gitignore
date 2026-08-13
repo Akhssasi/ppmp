@@ -1,0 +1,12 @@
+target/
+*.class
+*.jar
+*.log
+
+uploads/*
+!uploads/.gitkeep
+
+.idea/
+*.iml
+.vscode/
+*.swp
