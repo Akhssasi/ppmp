@@ -2,6 +2,20 @@
 
 Manage projects, track tasks and milestones, and turn your work into a public portfolio — all in one platform built for developers.
 
+## Screenshots
+
+### Home
+
+![PPMP home](screenshots/home.png)
+
+### Login
+
+![PPMP login](screenshots/login.png)
+
+### Register
+
+![PPMP register](screenshots/register.png)
+
 ## Structure
 
 ```
